@@ -13,13 +13,13 @@ An intelligent agent built with Google's Agent Development Kit (ADK) that provid
 ## 📸 Screenshots
 
 ### Code Validation
-<img src="./code-validation.png" alt="Code Validation" width="600"/>
+<img src="./code-validation.png" alt="Code Validation" width="800"/>
 
 ### Code Suggestions
-<img src="./code-suggestions.png" alt="Code Suggestions" width="600"/>
+<img src="./code-suggestions.png" alt="Code Suggestions" width="800"/>
 
 ### Corpus Information
-<img src="./corpus-info.png" alt="Corpus Information" width="600"/>
+<img src="./corpus-info.png" alt="Corpus Information" width="800"/>
 
 ## 🛠️ Technologies
 
