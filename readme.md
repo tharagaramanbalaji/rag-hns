@@ -2,7 +2,7 @@
 
 An intelligent agent built with Google's Agent Development Kit (ADK) that provides HSN (Harmonized System Nomenclature) code validation and suggestions using Retrieval-Augmented Generation.
 
-![Who are you](./whoareyou.png)
+<img src="./whoareyou.png" alt="Who are you" width="700"/>
 
 ## 📋 Features
 
@@ -13,13 +13,13 @@ An intelligent agent built with Google's Agent Development Kit (ADK) that provid
 ## 📸 Screenshots
 
 ### Code Validation
-![Code Validation](./code-validation.png)
+<img src="./code-validation.png" alt="Code Validation" width="600"/>
 
 ### Code Suggestions
-![Code Suggestions](./code-suggestions.png)
+<img src="./code-suggestions.png" alt="Code Suggestions" width="600"/>
 
 ### Corpus Information
-![Corpus Information](./corpus-info.png)
+<img src="./corpus-info.png" alt="Corpus Information" width="600"/>
 
 ## 🛠️ Technologies
 
